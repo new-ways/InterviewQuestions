@@ -1,0 +1,29 @@
+Coding Questions:
+1. Two Sum problem (https://leetcode.com/problems/two-sum/)
+2. Write a program to reverse each word of sentence? 
+  Input: "God is Great"  Ouput: "doG si taerG" 
+
+Java Questions:
+1. explain encapsulation?
+2. difference between overriding and overloading?
+3. Difference between Hashmap and Hashtable?
+4. what is SAM in java8?
+5. explain some java8 features?
+
+Spring Boot Questions:
+1. deafult servers for spring boot?
+2. why spring boot used? advantages?
+2. how will you create RESTful API in spring boot?
+
+SQL Questions:
+1. what is Left outer Join operation?
+2. write sql query to fetch second maximum salary from a table?
+
+MAVEN/Hibernate:
+1. what is the use of maven?
+2. how table is mapped?
+
+Frontend:
+1. difference between absolute and relative position in CSS?
+2. difference between == and === in JS?
+2. Output based question on .timestamp in JS?
