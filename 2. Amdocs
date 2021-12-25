@@ -1,0 +1,28 @@
+//Java Backend Developer
+//InterviewDate: 
+//1st Round: 90 min. online 2 Coding+ 15 MCQs Round (10-oct-2021)
+
+//2nd Round: Technical F2F interview(14-Oct-2021)
+Questions:
+1. Tell me about yourself
+2. what is immutable object?
+3. write code for removing duplicate leaf nodes from a binary tree?
+4. write code to fetch maximum from a binary tree?
+5. tell some java8 features?
+6. what is @Transactional in spring boot?
+7. what is dependency injection?
+8. how will you create Rest apis and controllers in spring? explain?
+
+//3rd Round: Technical F2F interview(19-oct-2021)
+Questions:
+1. Tell me about yourself
+2. tell some java8 features?
+3. what is IoC in spring boot?
+4. difference between PUT and POST methods?
+5. write sample code for REST controller?
+6. explain MVC architecture?
+7. what is session?
+8. steps to run spring boot app?
+9. explain some Junit or mockito methods?
+10. what ORM tool you used? and how explain?
+
