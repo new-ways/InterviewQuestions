@@ -1,0 +1,25 @@
+Java Questions:
+1. Is String mutable?
+2. Diffrenece between default and static?
+3. define polymorphism with an example?
+4. what is Lambda expression in java?
+5. how Hashmap collection works internally?
+
+Spring Boot Questions:
+1. What is Dependency injection?
+2. difference between spring and spring boot?
+2. what are some common annotations in spring boot?
+3. difference between @Controller & @RestController?
+4. what is process of @Transactional ?
+
+SQL Questions:
+1. what is Left Join operation?
+
+Frontend:
+1. what is directives in angular?
+2. how will you code javascript inside html page?
+3. difference between inline and internal css?
+
+Coding Questions:
+1. Write a program to reverse a string in java?
+2. Write any program and explain exceptional handling?
