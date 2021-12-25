@@ -1,3 +1,7 @@
+//Full Stack Developer roles
+First Round: Hackerrank online coding + mcq round (11-oct-2021)
+
+//second Round: f2f technical round (18-oct-2021)
 Java Questions:
 1. Is String mutable?
 2. Diffrenece between default and static?
@@ -19,6 +23,11 @@ Frontend:
 1. what is directives in angular?
 2. how will you code javascript inside html page?
 3. difference between inline and internal css?
+4. difference between class and id in css?
+5. how will you write js code in html page?
+6. explain <nav> and <div>
+7. how to create a form? write some sample code?
+
 
 Coding Questions:
 1. Write a program to reverse a string in java?
