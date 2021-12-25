@@ -1,0 +1,29 @@
+Java Questions:
+1. What is immutable in java?
+2. How will you create immutable class in java?
+3. Difference between abstact class and interface?
+4. can we create object of abstract class? How?
+5. Java 8 features?
+
+Spring Boot Questions:
+1. What is IoC?
+2. what do you mean by the term Inversion?
+3. what is @service?
+4. process to run spring boot app?
+5. how will you create a controller for CRUD operation in spring boot?
+
+CI/CD Questions:
+1. what is maven and jenkins? where these are used & how?
+
+SQL Questions:
+1. Tell me the order of execution of SELECT, WHERE, HAVING, GROUP BY ?
+2. write a query to fetch second maximum salary from a table (assume table have records of employee and their salaries)
+
+Frontend:
+1. what is <div> ? explain ?
+2. what is closure in javascript?
+3. how will you create angular application?
+
+Coding Questions:
+1. Write a program for fibbonacci series?
+2. Write a program to any of sorting algorithms?
