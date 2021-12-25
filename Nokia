@@ -1,1 +1,33 @@
+//Java Backend Developer roles with 2+ year of experience
+//Interview Date: 25-sept-2021
+//This was my first interview as an experience(and i have given my first 5-6 interviews without any preparation :p)
+
+General Question
+1. Tell me about yourself?
+2. Why do you want to switch?
+3. What do you know about NOKIA?
+4. If you get multiple offers how you you decide which one to go? will you choose NOKIA?
+
+Tech Questions
+1. difference between abstract and interface?
+2. How many ways can you create string objects?
+3. difference between stringbuffer and stringbuilder?
+4. what do you mean by threads?
+5. examples of some collections? what is collection?
+6. difference between arraylist and linkedlist? when to prefer what?
+7. tell some java8 features?
+8. what is the use of streamAPI?
+9. why springBoot?
+10. what is dependency Injection?
+11. what is Maven?
+12. how will you create Rest api in spring boot?
+13. what is dao?
+14. how to connect db to java application?
+15. where to add dependencies and how?
+16. difference between @table and @entity?
+17. what is hibernate?
+
+Coding Questions:
+1. Write a program to reverse an string?
+2. Two sum problem(https://leetcode.com/problems/two-sum/)?
 
