@@ -1,1 +1,40 @@
+//Senior Software Engineers roles (Mulesoft developers)
 
+=>First Round(27-oct-2021)
+Syllabus:
+-Agile methodologies (4-5 questions)
+-Basic reasoning questions (3-4 questions)
+-API knowledge (intermediate level; many questions were asked)
+-Version control systems (scenario based questions; GitHub and all)
+-Basic Linux commands
+-Cloud (Basic cloud knowledge; If you have done Azure certification (AZ-900) which help you  in covering the questions)
+-Data structures and algorithms (Basic level)
+-Java programming questions (However, if a person is proficient enough in any major programming language then the questions are fairly easy to answer)
+-java coding output in java, python c++, c, Spring ,Micro services Private cloud, 
+ hybrid cloud, sql, nosql, horizontal scaling, vertical scaling, push, pop, continuous integration, ram, saas, laas, 3 tier architecture,
+ Cloud computing(majorly), Agile Methodology, SQL,Data Interpretation, Database Queries, Java output questions 
+-Aptitude and logical reasoning 
+-Agile based
+-Restapi 
+-Jenkins based (Ci/cd)
+-Networking based questions 
+-Oath based
+
+Paper is of 100 marks distributed over 70 question
+Cutoff is 60 out of 100
+
+=>Second Round(17-Nov-2021)
+//F2F Technical round
+Questions:
+1. what is immutability in java?
+2. define oops features of java?
+3. define your project architecture?
+4. what is Ioc and DI in spring boot?
+5. create a form-page using HTML CSS and JS?
+6. steps involved in deployements?
+7. what is agile methdology?
+8. difference between Hashmap and Hashtable?
+9. write code to reverse a string in java?
+10. what is @transactional ?
+11. what do you know about stream api?
+12. explain lambda expression?
