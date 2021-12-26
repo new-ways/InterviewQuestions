@@ -1,1 +1,11 @@
+//(Senior/Software Engineer position)
+//profile shortlisted for direct interview
 
+//Technical F2F round(10-Nov-2021)
+Questions:
+1. explain your project architecture?
+2. write algorithm and code to remove leaf node from binary tree only if left node matches right node
+3. write algorithm and code to reverse stack elements using stacks only?
+4. write algorithm and code to return maximum among leaf node from a binary tree?
+5. how will you create spring boot application from scratch? steps?
+6. how elements are stored (internal sructure) in Hashmap collections?
