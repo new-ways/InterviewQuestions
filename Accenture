@@ -1,3 +1,8 @@
+//Full Stack Developement roles
+First Round (25-oct-2021)
+
+//second round: F2F Technical interview(23-Dec-2021)
+Q. Tell me about yourself
 Java Questions:
 1. What is immutable in java?
 2. How will you create immutable class in java?
@@ -23,6 +28,7 @@ Frontend:
 1. what is <div> ? explain ?
 2. what is closure in javascript?
 3. how will you create angular application?
+4. some Javascript output based questions based on local & global scoping
 
 Coding Questions:
 1. Write a program for fibbonacci series?
