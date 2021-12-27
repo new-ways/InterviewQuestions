@@ -1,1 +1,26 @@
+//Backend Developer roles
 
+Technical Round 1(19-dec-2021)
+60 min. 2 coding problem (to be coded in ideone.com)
+1. Reverse a sentence(Input: "I Want to know." Output: "know to Want I")
+2. Find all pairs from given array that add up to given sum value. 
+Input: 
+Arr[]={29,295,103,-15,100,-23,-19,67,30,44,87,-55,16,-250} X=45 
+Output: 
+29 16
+295 -250
+100 -55
+
+Technical round 2(22-dec-2021)
+1.Tell about your projects?
+2.how to create controllers in spring boot?
+3.why spring boot?
+4.create a rest api controller?
+5.how you will connect to db?
+6.you used jenkins? how it works?
+7.default servers in spring boot?
+8.what is IoC in sping boot?
+9.what is pool memory?
+10.Is hashmap synchonous?
+11.what is @scope & use?
+12.write query to fetch second maximum salary from a table?
