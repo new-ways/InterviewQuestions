@@ -1,1 +1,23 @@
+//Java Fullstack roles
+//profile directly shortlised for technical interview
 
+Tech Round(23-dec-2021)
+1.tell about you and your project?
+2.what is hashmap collection?
+3.difference between Array, ArrayList and LinkedList?
+4.how to make an object immutable?
+5.explain some java 8 features?
+6.difference between static and default?
+7.what is IoC in spring boot?
+8.steps to create spring boot application?
+9.what is hql? example?
+10.which version of angular used?
+11.component vs modules vs services in angular?
+12.explain rest controllers by creating an example?
+13.create a rest controllers and do crud operation? explain?
+14.difference between @entity and @table?
+15.explain some junit methods?
+16.tell some GIT commands?
+17.you have two branches you want to merge one and discard one, how will you do it?
+18.what is <div> explain?
+19.explain agile methodology?
