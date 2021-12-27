@@ -1,1 +1,39 @@
+//Java Full Stack Developer roles
+//profile directly shortlisted for technical round
 
+Technical f2f Round 1(18-dec-2021)
+1.How to create mutable string object?
+2.what is static in java?
+3.difference between abstract class and interface?
+4.what java8 feature you worked on?
+5.what is SAM?
+6.what is DI in spring boot?
+7.explain some annotations in spring boot you used?
+8.how to configure dependencies in spring boot?
+9.how deployement of application happens?
+10.what is angular?
+11.how will you connect css to html?
+12.syntax for creating a form?
+13.do you know react?
+14.have you used Junit or mockito? how?
+15.how exceptions are handled in java?
+16.difference between throw and throws?
+17.write a query to fetch third maximum salary from a table?
+18.what is joins in sql?
+
+Technical f2f Round 2(21-dec-2021)
+1.explain your project architechture?
+2.tell some GIT commands?
+3.difference between POST and PUT?
+4.what is LOAD and POST? difference?
+5.what do you mean by inversion in IoC?
+6.how you will do CRUD operation in spring boot app? can you explain with some code example?
+7.what is REST api?
+8.what is microservices? and it's benefit?
+9.what is @NgModule in angular?
+10.difference between var and let in JS?
+11.what is collection in java?
+12.explain how hashmap stores data?
+13.explain with a code how will you create a rest api?
+14.how you will use hibernate in your application?
+15.wh
