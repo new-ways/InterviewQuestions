@@ -1,1 +1,36 @@
+The position Developer - III , Software Engineering at UST required same technical match with 3-7 years of experience.
 
+There were total 2 rounds of tech interview & 1 final discussion with HR.
+
+R1:
+(~40min.)
+-Java questions on OOP
+- ArrayList vs HashMap,
+-HashMap internal working
+-Threading with example, thread life cycle
+-Stream API questions
+-Functional Interface
+-How to make custom exceptions, global exceptions handling
+-Singleton Design pattern implementation (Lazy and Eager both implementation)
+- Explain @SpringBootApplication
+-@RestController vs @Controller
+- SOAP vs REST
+- asked to write some queries in Repository layer
+-Java code, remove duplicates from array
+-Java Code, Max subarray sum
+-some questions on Junit  and mockito
+
+R2:
+(~35 Min.)
+-Brief about last projects worked.
+-Explain Steps to create spring boot app
+-Authentication vs Authorisation 
+-explain CRUD operation 
+-IOC vs DI in spring boot
+-@Component vs @Service
+-explain @qualifier  
+-Code Coverage Tool
+-Coverage percentage
+
+HR:(~20min)
+Normal discussions on past experiences, offer discussion, location preference, joining date.
